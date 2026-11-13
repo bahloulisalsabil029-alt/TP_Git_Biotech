@@ -4,3 +4,7 @@ GitHub est une plateforme qui permet de stocker et partager les projets.
 Dans ce TP, j'ai appris à créer un dépôt GitHub et à le cloner dans Google Colab.
 J'ai appris à créer des fichiers, effectuer un commit et envoyer les modifications.
 J'ai également découvert la création et l'utilisation des branches.
+
+Description de mon projet personnel :
+
+Mon projet consiste à développer un produit de soin naturel destiné aux peaux à tendance acnéique, à base d'extraits végétaux. L'objectif est de concevoir une formulation adaptée aux besoins de la peau. Git me permettra de conserver les différentes versions du projet et de suivre les modifications apportées à sa formulation.
